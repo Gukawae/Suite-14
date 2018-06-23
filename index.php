@@ -1,8 +1,6 @@
 <?php
 
-
- echo "olá mundo 456";
- echo "olá Kawai";
+ echo "olá mundo";
+ echo "olá Gustavo Kawai";
  
-
 ?>
